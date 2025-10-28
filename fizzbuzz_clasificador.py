@@ -24,7 +24,9 @@ def clasificar_enteros(numeros):
 def mostrar_resultados(fizzbuzz, buzz, fizz, otro):
     print(f"Los múltiplos de 3 son los números: {fizz}")
     print(f"Los múltiplos de 5 son los números: {buzz}")
+test_conflict_branch
     print(f"Los números multiplicados por 3 y 5 son: {fizzbuzz}")
+main
     print(f"Mientras que {otro} son números que no entran en ninguna categoría")
 
 def main():
